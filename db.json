@@ -1,0 +1,46 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "great",
+      "id": 1
+    },
+    {
+      "title": "new one",
+      "description": "new",
+      "id": 5
+    },
+    {
+      "title": "new new",
+      "description": "new2",
+      "id": 6
+    },
+    {
+      "title": "Another one 1",
+      "description": "One 1",
+      "id": 7
+    },
+    {
+      "title": "Refactor",
+      "description": "This stream is about refactoring",
+      "id": 8
+    },
+    {
+      "title": "Unexpected Behavior",
+      "description": "Didn't expect that!",
+      "userId": "114445022764190285877",
+      "id": 9
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should not see this on the form page!!! THIS TIME PATCH",
+      "userId": "114445022764190285877",
+      "id": 10
+    },
+    {
+      "title": "Me streaming comment reuse",
+      "description": "Watch me refactor some components using PATCH",
+      "id": 11
+    }
+  ]
+}
